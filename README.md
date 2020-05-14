@@ -1,5 +1,8 @@
 # tmdb-movie-javascript
 
+#kelas dicoding -> Belajar Fundamental Front-End Web Development
+
+
 kriteria submission dicoding 
 
 1. Menggunakan standar ES6 sintaks dalam menuliskan kode JavaScript pada proyek yang dibuat.
