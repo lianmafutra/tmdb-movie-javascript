@@ -11,5 +11,5 @@ kriteria submission dicoding
 4. Memanfaatkan Webpack sebagai environment dalam pengembangan proyek (tahap development).
 5. Memanfaatkan API dengan menggunakan konsep AJAX dalam menampilkan data yang dinamis pada aplikasi yang dibuat.
 
-+add feature
+#add feature
 - Penerapan localstorage untuk menyimpan favorite movie
