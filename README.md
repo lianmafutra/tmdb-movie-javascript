@@ -13,3 +13,7 @@ kriteria submission dicoding
 
 #add feature
 - Penerapan localstorage untuk menyimpan favorite movie
+
+#screenshoot
+
+![mv](https://user-images.githubusercontent.com/15800599/82069767-a79ca100-9688-11ea-87ae-e881966e024d.png)
