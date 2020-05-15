@@ -12,7 +12,8 @@ kriteria submission dicoding
 5. Memanfaatkan API dengan menggunakan konsep AJAX dalam menampilkan data yang dinamis pada aplikasi yang dibuat.
 
 #add feature
-- Penerapan localstorage untuk menyimpan favorite movie
+- Penerapan localstorage untuk menyimpan favorite movie (unprogress)
+- Babel Loader (unprogress)
 
 #screenshoot
 
