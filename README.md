@@ -17,3 +17,5 @@ kriteria submission dicoding
 #screenshoot
 
 ![mv](https://user-images.githubusercontent.com/15800599/82069767-a79ca100-9688-11ea-87ae-e881966e024d.png)
+
+![detail](https://user-images.githubusercontent.com/15800599/82070006-fd714900-9688-11ea-95bd-b8c2e0cfcafe.png)
