@@ -1,14 +1,15 @@
 const path = require("path");
  
 module.exports = {
-    entry: "./src/index.js", //direktori module yang akan di export
+    entry: "./src/index.js",
     output: {
         path: path.resolve(__dirname, "dist"),
-        filename: "bundle.js" 
+        filename: "bundle.js"
     },
     mode: "production",
     module: {
         rules: [
+            /* style and css loader */
             {
                 test: /\.css$/,
                 use: [
@@ -19,10 +20,22 @@ module.exports = {
                         loader: "css-loader"
                     }
                 ]
+            },
+            /* babel loader */
+            {
+                test: /\.js$/,
+                exclude: "/node_modules/",
+                use: [
+                    {
+                        loader: "babel-loader",
+                        options: {
+                            presets: ["@babel/preset-env"]
+                        }
+                    }
+                ]
             }
         ]
     }
- }
-
+}
 
 // membantu menulis js secara modular maka ada export dan import
