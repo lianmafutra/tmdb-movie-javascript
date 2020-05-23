@@ -1,5 +1,8 @@
 import "./style/style.css";
 import "./style/bootstrap.min.css";
+import $ from "jquery";
+import 'bootstrap';
+
 
 
  const loading = document.getElementsByClassName("se-pre-con");
